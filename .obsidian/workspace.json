@@ -11,14 +11,10 @@
             "id": "77e10ff3aaf2ae37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新分頁"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名 的反向連結"
+              "title": "反向連結"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名 的對外連結"
+              "title": "對外連結"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大綱"
+              "title": "大綱"
             }
           },
           {
@@ -181,6 +174,34 @@
   },
   "active": "66a9466b4a4c7290",
   "lastOpenFiles": [
-    "未命名.md"
+    "未命名.md",
+    "README.md",
+    "03_MonthlyReviews/2026-05_Monthly_Review.md",
+    "03_MonthlyReviews/2026-04_Monthly_Review.md",
+    "03_MonthlyReviews/2026-03_Monthly_Review.md",
+    "03_MonthlyReviews/2025-09_Monthly_Review.md",
+    "03_MonthlyReviews/2026-02_Monthly_Review.md",
+    "03_MonthlyReviews/2026-01_Monthly_Review.md",
+    "03_MonthlyReviews/2025-12_Monthly_Review.md",
+    "03_MonthlyReviews/2025-11_Monthly_Review.md",
+    "03_MonthlyReviews/2025-10_Monthly_Review.md",
+    "03_MonthlyReviews/2025-08_Monthly_Review.md",
+    "03_MonthlyReviews/2025-07_Monthly_Review.md",
+    "03_MonthlyReviews",
+    "02_WeeklyProgress/Week_52_0623.md",
+    "02_WeeklyProgress/Week_51_0616.md",
+    "02_WeeklyProgress/Week_50_0609.md",
+    "02_WeeklyProgress/Week_49_0602.md",
+    "02_WeeklyProgress/Week_48_0526.md",
+    "02_WeeklyProgress/Week_47_0519.md",
+    "02_WeeklyProgress/Week_46_0512.md",
+    "02_WeeklyProgress/Week_45_0505.md",
+    "02_WeeklyProgress/Week_44_0428.md",
+    "02_WeeklyProgress/Week_43_0421.md",
+    "02_WeeklyProgress/Week_42_0414.md",
+    "02_WeeklyProgress/Week_41_0407.md",
+    "02_WeeklyProgress/Week_40_0331.md",
+    "02_WeeklyProgress",
+    "01_LearningPlan"
   ]
 }
