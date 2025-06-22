@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01_LearningPlan/LearningPlan_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "LearningPlan_Overview"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01_LearningPlan/LearningPlan_Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向連結"
+              "title": "LearningPlan_Overview 的反向連結"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01_LearningPlan/LearningPlan_Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的對外連結"
+              "title": "LearningPlan_Overview 的對外連結"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "01_LearningPlan/LearningPlan_Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README 的大綱"
+              "title": "LearningPlan_Overview 的大綱"
             }
           },
           {
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77e10ff3aaf2ae37",
+  "active": "67fa796e671c9598",
   "lastOpenFiles": [
-    "未命名.md",
     "README.md",
+    "未命名.md",
     "03_MonthlyReviews/2026-05_Monthly_Review.md",
     "03_MonthlyReviews/2026-04_Monthly_Review.md",
     "03_MonthlyReviews/2026-03_Monthly_Review.md",
