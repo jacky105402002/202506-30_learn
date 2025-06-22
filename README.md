@@ -5,8 +5,6 @@
 - 完成一個技術部落格 Side Project 並成功部署
 - 學會 Git、GitHub、Zeabur 上架部署
 - 預留空間探索 N8N 自動化整合
-github測試上傳
----
 
 ## 📅 週次任務表（Obsidian 格式）
 
