@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_LearningPlan/LearningPlan_Overview.md",
+                "file": "02_WeeklyProgress/Week_01_0630.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LearningPlan_Overview"
+              "title": "Week_01_0630"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "77e10ff3aaf2ae37",
   "lastOpenFiles": [
-    "02_WeeklyProgress/Week_01_0630.md",
     "01_LearningPlan/LearningPlan_Overview.md",
+    "02_WeeklyProgress/Week_01_0630.md",
     "README.md",
     "未命名.md",
     "03_MonthlyReviews/2026-05_Monthly_Review.md",
