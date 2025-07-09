@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_WeeklyProgress/Week_01_0630.md",
+                "file": "01_LearningPlan/LearningPlan_Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week_01_0630"
+              "title": "LearningPlan_Overview"
+            }
+          },
+          {
+            "id": "5d41418c8b590b07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_LearningPlan/前端技能組合包與應用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "前端技能組合包與應用"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77e10ff3aaf2ae37",
+  "active": "5d41418c8b590b07",
   "lastOpenFiles": [
     "01_LearningPlan/LearningPlan_Overview.md",
+    "01_LearningPlan/前端技能組合包與應用.md",
     "02_WeeklyProgress/Week_01_0630.md",
     "README.md",
-    "未命名.md",
     "03_MonthlyReviews/2026-05_Monthly_Review.md",
     "03_MonthlyReviews/2026-04_Monthly_Review.md",
     "03_MonthlyReviews/2026-03_Monthly_Review.md",
