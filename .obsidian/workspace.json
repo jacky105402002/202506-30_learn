@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_LearningPlan/前端技能組合包與應用.md",
+                "file": "02_WeeklyProgress/Week_02_0708.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "前端技能組合包與應用"
+              "title": "Week_02_0708"
             }
           }
         ],
@@ -196,9 +196,11 @@
   },
   "active": "5d41418c8b590b07",
   "lastOpenFiles": [
-    "01_LearningPlan/LearningPlan_Overview.md",
-    "01_LearningPlan/前端技能組合包與應用.md",
+    "02_WeeklyProgress/Week_03_0715.md",
+    "02_WeeklyProgress/Week_02_0708.md",
     "02_WeeklyProgress/Week_01_0630.md",
+    "01_LearningPlan/前端技能組合包與應用.md",
+    "01_LearningPlan/LearningPlan_Overview.md",
     "README.md",
     "03_MonthlyReviews/2026-05_Monthly_Review.md",
     "03_MonthlyReviews/2026-04_Monthly_Review.md",
@@ -221,8 +223,6 @@
     "02_WeeklyProgress/Week_46_0512.md",
     "02_WeeklyProgress/Week_45_0505.md",
     "02_WeeklyProgress/Week_44_0428.md",
-    "02_WeeklyProgress/Week_43_0421.md",
-    "02_WeeklyProgress/Week_42_0414.md",
     "02_WeeklyProgress",
     "01_LearningPlan"
   ]
